@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginPackage xmlns="http://www.sdl.com/Plugins/PluginPackage/1.0">
+  <PlugInName>SoftTran.TM.Hyperhub.Inline</PlugInName>
+  <Version>1.1</Version>
+  <Description>SoftTran.TM.Hyperhub.Inline</Description>
+  <Author></Author>
+  <RequiredProduct name="SDLTradosStudio" minversion="10.0" />
+  <Include>
+    <File>SoftTran.XML.dll</File>
+  </Include>
+</PluginPackage>
